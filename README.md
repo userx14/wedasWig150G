@@ -7,7 +7,7 @@ Some diodes in the schematic could be Zener-diodes. <br/>
 <img src="front.jpg" width="200">
 <h2>back</h2>
 <img src="back.jpg" width="200">
-<h2>front</h2>
+<h2>top</h2>
 <img src="top.jpg" width="200">
 <h2>specifications</h2>
 <img src="specs.jpg" width="200">
