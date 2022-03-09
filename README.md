@@ -12,4 +12,4 @@ Some diodes in the schematic could be Zener-diodes.
 <h2>specifications</h2>
 <img src="specs.jpg" width="200">
 <h2>schematic preview</h2>
-<img src="schematic.jpg" width="200">
+<img src="schematic.JPG" width="200">
