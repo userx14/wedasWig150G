@@ -1,8 +1,8 @@
 # wedasWig150G
-Reverse engineered schematic for Wedas Wig 150G TIG WELDER.
-Some diodes in the schematic could be Zener-diodes.
+Reverse engineered schematic for Wedas Wig 150G TIG WELDER. <br/>
+Some diodes in the schematic could be Zener-diodes. <br/>
 
-<h1>images</h1>
+<h1>Images</h1>
 <h2>front</h2>
 <img src="front.jpg" width="200">
 <h2>back</h2>
